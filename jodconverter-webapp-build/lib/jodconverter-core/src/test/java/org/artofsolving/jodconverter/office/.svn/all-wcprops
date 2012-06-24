@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/202/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/office
+END
+MockOfficeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/188/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/office/MockOfficeTask.java
+END
+ExternalOfficeManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/202/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/office/ExternalOfficeManagerTest.java
+END
+PooledOfficeManagerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/192/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/office/PooledOfficeManagerTest.java
+END
+OfficeUtilsTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/188/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/office/OfficeUtilsTest.java
+END

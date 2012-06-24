@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="iventio-ThinkPad-T420" name="org.artofsolving.jodconverter.OfficeDocumentConverterFunctionalTest" tests="9" failures="0" timestamp="4 Apr 2012 02:03:58 GMT" time="29.421" errors="0">
+  <testcase name="runAllPossibleConversions" time="12.516" classname="org.artofsolving.jodconverter.OfficeDocumentConverterFunctionalTest"/>
+  <testcase name="readJsonRegistry" time="0.014" classname="org.artofsolving.jodconverter.document.JsonDocumentFormatRegistryTest"/>
+  <testcase name="executeTask" time="2.177" classname="org.artofsolving.jodconverter.office.ExternalOfficeManagerTest"/>
+  <testcase name="executeTask" time="1.719" classname="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+  <testcase name="restartAfterCrash" time="4.209" classname="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+  <testcase name="restartAfterTaskTimeout" time="5.209" classname="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+  <testcase name="restartWhenMaxTasksPerProcessReached" time="3.439" classname="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+  <testcase name="linuxProcessManager" time="0.101" classname="org.artofsolving.jodconverter.process.ProcessManagerTest"/>
+  <testcase name="sigarProcessManager" time="0.013" classname="org.artofsolving.jodconverter.process.ProcessManagerTest"/>
+</testsuite>

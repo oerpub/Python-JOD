@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter
+END
+OfficeDocumentConverter.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/189/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/OfficeDocumentConverter.java
+END
+StandardConversionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/StandardConversionTask.java
+END
+OfficeDocumentUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/OfficeDocumentUtils.java
+END
+AbstractConversionTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/AbstractConversionTask.java
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/process
+END
+SigarProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/process/SigarProcessManager.java
+END
+ProcessQuery.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/process/ProcessQuery.java
+END
+PureJavaProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/process/PureJavaProcessManager.java
+END
+LinuxProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/process/LinuxProcessManager.java
+END
+ProcessManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/process/ProcessManager.java
+END

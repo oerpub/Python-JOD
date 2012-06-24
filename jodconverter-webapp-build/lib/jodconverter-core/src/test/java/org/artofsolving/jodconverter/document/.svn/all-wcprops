@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/188/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/document
+END
+DumpJsonDefaultDocumentFormatRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/!svn/ver/188/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/document/DumpJsonDefaultDocumentFormatRegistry.java
+END
+JsonDocumentFormatRegistryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/!svn/ver/188/trunk/jodconverter-core/src/test/java/org/artofsolving/jodconverter/document/JsonDocumentFormatRegistryTest.java
+END

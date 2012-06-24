@@ -1,0 +1,149 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office
+END
+OfficeContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeContext.java
+END
+TemporaryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/TemporaryException.java
+END
+NamedThreadFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/NamedThreadFactory.java
+END
+SuspendableThreadPoolExecutor.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/SuspendableThreadPoolExecutor.java
+END
+ManagedOfficeProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/215/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/ManagedOfficeProcess.java
+END
+OfficeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeException.java
+END
+PooledOfficeManagerSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/PooledOfficeManagerSettings.java
+END
+OfficeConnection.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeConnection.java
+END
+OfficeUtils.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/204/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeUtils.java
+END
+OfficeConnectionEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeConnectionEvent.java
+END
+OfficeTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeTask.java
+END
+ProcessPoolOfficeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/215/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/ProcessPoolOfficeManager.java
+END
+ExternalOfficeManagerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/ExternalOfficeManagerConfiguration.java
+END
+DefaultOfficeManagerConfiguration.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/!svn/ver/203/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/DefaultOfficeManagerConfiguration.java
+END
+OfficeConnectionEventListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeConnectionEventListener.java
+END
+UnoUrl.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/UnoUrl.java
+END
+OfficeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/215/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeManager.java
+END
+ManagedOfficeProcessSettings.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/206/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/ManagedOfficeProcessSettings.java
+END
+ExternalOfficeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/215/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/ExternalOfficeManager.java
+END
+PooledOfficeManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/215/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/PooledOfficeManager.java
+END
+Retryable.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/Retryable.java
+END
+OfficeProcess.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/220/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeProcess.java
+END
+RetryTimeoutException.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/RetryTimeoutException.java
+END
+OfficeConnectionProtocol.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/office/OfficeConnectionProtocol.java
+END

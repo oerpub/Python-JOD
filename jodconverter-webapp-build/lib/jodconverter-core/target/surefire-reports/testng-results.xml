@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="41787" started-at="2012-04-04T08:47:38Z" finished-at="2012-04-04T08:48:20Z">
+    <groups>
+      <group name="integration">
+        <method signature="org.artofsolving.jodconverter.office.ExternalOfficeManagerTest.executeTask()" name="executeTask" class="org.artofsolving.jodconverter.office.ExternalOfficeManagerTest"/>
+        <method signature="org.artofsolving.jodconverter.office.PooledOfficeManagerTest.executeTask()" name="executeTask" class="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+        <method signature="org.artofsolving.jodconverter.office.PooledOfficeManagerTest.restartAfterCrash()" name="restartAfterCrash" class="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+        <method signature="org.artofsolving.jodconverter.office.PooledOfficeManagerTest.restartAfterTaskTimeout()" name="restartAfterTaskTimeout" class="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+        <method signature="org.artofsolving.jodconverter.office.PooledOfficeManagerTest.restartWhenMaxTasksPerProcessReached()" name="restartWhenMaxTasksPerProcessReached" class="org.artofsolving.jodconverter.office.PooledOfficeManagerTest"/>
+      </group>
+      <group name="functional">
+        <method signature="org.artofsolving.jodconverter.OfficeDocumentConverterFunctionalTest.runAllPossibleConversions()" name="runAllPossibleConversions" class="org.artofsolving.jodconverter.OfficeDocumentConverterFunctionalTest"/>
+      </group>
+    </groups>
+    <test name="Command line test" duration-ms="41787" started-at="2012-04-04T08:47:38Z" finished-at="2012-04-04T08:48:20Z">
+      <class name="org.artofsolving.jodconverter.office.ExternalOfficeManagerTest">
+        <test-method status="PASS" signature="executeTask()" name="executeTask" duration-ms="2198" started-at="2012-04-04T08:48:03Z" finished-at="2012-04-04T08:48:05Z">
+        </test-method>
+      </class>
+      <class name="org.artofsolving.jodconverter.process.ProcessManagerTest">
+        <test-method status="PASS" signature="linuxProcessManager()" name="linuxProcessManager" duration-ms="83" started-at="2012-04-04T08:48:20Z" finished-at="2012-04-04T08:48:20Z">
+        </test-method>
+        <test-method status="PASS" signature="sigarProcessManager()" name="sigarProcessManager" duration-ms="11" started-at="2012-04-04T08:48:20Z" finished-at="2012-04-04T08:48:20Z">
+        </test-method>
+      </class>
+      <class name="org.artofsolving.jodconverter.OfficeDocumentConverterFunctionalTest">
+        <test-method status="PASS" signature="runAllPossibleConversions()" name="runAllPossibleConversions" duration-ms="24789" started-at="2012-04-04T08:47:38Z" finished-at="2012-04-04T08:48:03Z">
+        </test-method>
+      </class>
+      <class name="org.artofsolving.jodconverter.office.PooledOfficeManagerTest">
+        <test-method status="PASS" signature="executeTask()" name="executeTask" duration-ms="1739" started-at="2012-04-04T08:48:05Z" finished-at="2012-04-04T08:48:07Z">
+        </test-method>
+        <test-method status="PASS" signature="restartAfterCrash()" name="restartAfterCrash" duration-ms="4213" started-at="2012-04-04T08:48:07Z" finished-at="2012-04-04T08:48:11Z">
+        </test-method>
+        <test-method status="PASS" signature="restartAfterTaskTimeout()" name="restartAfterTaskTimeout" duration-ms="5231" started-at="2012-04-04T08:48:11Z" finished-at="2012-04-04T08:48:17Z">
+        </test-method>
+        <test-method status="PASS" signature="restartWhenMaxTasksPerProcessReached()" name="restartWhenMaxTasksPerProcessReached" duration-ms="3476" started-at="2012-04-04T08:48:17Z" finished-at="2012-04-04T08:48:20Z">
+        </test-method>
+      </class>
+      <class name="org.artofsolving.jodconverter.document.JsonDocumentFormatRegistryTest">
+        <test-method status="PASS" signature="readJsonRegistry()" name="readJsonRegistry" duration-ms="31" started-at="2012-04-04T08:48:03Z" finished-at="2012-04-04T08:48:03Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>

@@ -1,0 +1,20 @@
+Convert Script Help Info:
+-------------------------
+
+To execute a batch conversion use the format:
+----------------------------------------------
+python convert.py -b [testbed directory]  [output directory] [number of documents] [format of documents] [output format]
+
+Example: python convert.py -b /home/foo/ /home/foo/outputdir 3 doc odt
+
+To execute a single file conversion use format:
+-----------------------------------------------
+python convert.py [file location] [output_directory] [format] [output format]
+
+Example: python convert.py ~/foo ~/outputdir doc pdf
+
+
+Note:
+-------
+To print out this information again simply type:
+python convert.py -help

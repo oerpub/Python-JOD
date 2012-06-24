@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document
+END
+DocumentFamily.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document/DocumentFamily.java
+END
+DocumentFormatRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document/DocumentFormatRegistry.java
+END
+DefaultDocumentFormatRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document/DefaultDocumentFormatRegistry.java
+END
+DocumentFormat.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document/DocumentFormat.java
+END
+SimpleDocumentFormatRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document/SimpleDocumentFormatRegistry.java
+END
+JsonDocumentFormatRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/188/trunk/jodconverter-core/src/main/java/org/artofsolving/jodconverter/document/JsonDocumentFormatRegistry.java
+END

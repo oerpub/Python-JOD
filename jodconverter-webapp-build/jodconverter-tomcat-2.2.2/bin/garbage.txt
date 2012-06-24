@@ -1,0 +1,7 @@
+
+Java opts is: -Djava.library.path=/usr/lib/libreoffice/basis-link/ure-link/lib:/home/iventio/jodconverter-webapp-build/lib/hyperic-sigar-1.6.5/sigar-bin/lib
+
+Using CATALINA_BASE:   /home/iventio/jodconverter-webapp-build/jodconverter-tomcat-2.2.2
+Using CATALINA_HOME:   /home/iventio/jodconverter-webapp-build/jodconverter-tomcat-2.2.2
+Using CATALINA_TMPDIR: /home/iventio/jodconverter-webapp-build/jodconverter-tomcat-2.2.2/temp
+Using JRE_HOME:       /usr
